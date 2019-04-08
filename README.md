@@ -20,3 +20,6 @@ I would say I have spent about 10-15 hours on this so far.
 
 *Whether you are ahead or lagging behind what you presented in the project plan at roughly this stage.
 I would say (other than not being able to get it to run or work) I am actually where I expected myself to be.
+
+
+I have not made too many edits since the last interim report, just fixed a couple bugs. I have mostly been focusing on studying for my exams. After my last exam, my main priority will be this project, and I feel as though it will be complete before the due date with no problems.
